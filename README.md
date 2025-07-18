@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&customColorList=0,2,5&height=200&text=HyukJun's+GitHub+&fontSize=60&fontAlign=50&fontAlignY=50&desc=Developer&descSize=20&descAlign=50&descAlignY=70)
+
+
+![header](https://github.com/hyukjunmon/hyukjunmon/blob/main/hyukjun.gif?raw=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyukjunmon&count_bg=%2379C83D&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 😎 About ME 
