@@ -42,4 +42,4 @@ Linux
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
 
 ### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seolranlee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyukjunmon&layout=compact)
